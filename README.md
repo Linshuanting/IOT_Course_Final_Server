@@ -31,9 +31,9 @@ yourdata = {
 ```
 ---
 ## Mysql
-1. 使用者以及使用者表格
+1. 使用者以及使用者表格 --------------
 ![Imgur](images/sqltable01.png)
-2. 商品資料表格
+2. 商品資料表格 ------------------------
 ![Imgur](images/sqltable02.png)
 ---
 
