@@ -15,7 +15,7 @@
 - 當使用者端想要同步該手機與資料庫資料時，可以向PyServer提取資料，Server會根據Json格式裡的資料向Client做回傳。
 
 ### JSON檔案內容
-```json 
+```
 yourdata = {
             # 這裡需要將資料寫入
             # 範例格式如下:
