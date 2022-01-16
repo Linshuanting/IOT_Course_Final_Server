@@ -32,9 +32,9 @@ yourdata = {
 ---
 ## Mysql
 1. 使用者以及使用者表格
-[Imgur](images/sqltable01.png)
+![Imgur](images/sqltable01.png)
 2. 商品資料表格
-[Imgur](images/sqltable02.png)
+![Imgur](images/sqltable02.png)
 ---
 
 ## Docker
@@ -46,6 +46,6 @@ yourdata = {
 ## Node Js
 使用Node Js以及ejs做後端可視化界面，並使用Express API做簡單網頁架設，以達到人性化操作模式
 1. 可以看到User以及對應table
-[Imgur](images/ejs01.png)
+![Imgur](images/ejs01.png)
 2.	可以看到User買過的商品
-[Imgur](images/ejs01.png)
+![Imgur](images/ejs01.png)
